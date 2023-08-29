@@ -22,15 +22,31 @@ package ThreeMonthPrepareKit;
  */
 public class TimeConversion {
     public static void main(String[] args) {
-
+        String s = TimeConversion("06:40:03AM");
+        System.out.println(s);
     }
 
     public static String TimeConversion(String s){
         //get first 2 string and parse to integer
-        String substring = s.substring(0, 1);
+        String substring = s.substring(0, 2);
         Integer parseInt = Integer.parseInt(substring);
 
-        
-        return null;
+        //suffix
+        String suffix = s.substring(s.length() - 2, s.length() );
+
+        Integer preffix = 0;
+
+        String body = s.substring(2, s.length() - 2);
+        if(suffix.equals("AM") && parseInt==12){
+            return "00"+body;
+        }
+        else if(suffix.equals("PM") && (parseInt!=12)) {
+            preffix = parseInt + 12;
+            return preffix.toString()+body;
+        }
+        else {
+            return s.substring(0,s.length()-2);
+        }
+
     }
 }
