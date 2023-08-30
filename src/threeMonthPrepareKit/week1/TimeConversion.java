@@ -1,4 +1,4 @@
-package ThreeMonthPrepareKit;
+package threeMonthPrepareKit.week1;
 
 /**
  * @Description: TODO

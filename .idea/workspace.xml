@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36631afd-2294-41ef-af78-4360cdf30dfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/BreakingTheRecord.java" afterDir="false" />
+    <list default="true" id="36631afd-2294-41ef-af78-4360cdf30dfb" name="Changes" comment="practice">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/CamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/DivisibleSumPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/SparseArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/sampleTest/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/FlippingBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/GradingStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/LonelyNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/TimeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/Mini_Max_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/TimeConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/BreakingTheRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/BreakingTheRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/Mini_Max_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/Mini_Max_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/TimeConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +42,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/LeetCode",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BreakingTheRecord">
-    <configuration name="BreakingTheRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPrepareKit.BreakingTheRecord" />
+  <component name="RunManager" selected="Application.FlippingBit">
+    <configuration name="DivisibleSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week1.DivisibleSumPairs" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPrepareKit.*" />
+          <option name="PATTERN" value="threeMonthPrepareKit.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,23 +71,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeMonthPrepareKit.TimeConversion" />
+    <configuration name="FlippingBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week2.FlippingBit" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThreeMonthPrepareKit.*" />
+          <option name="PATTERN" value="threeMonthPrepareKit.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradingStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week2.GradingStudent" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threeMonthPrepareKit.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week1.SparseArrays" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threeMonthPrepareKit.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlippingBit.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threeMonthPrepareKit.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="threeMonthPrepareKit.week2" />
+      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week2.FlippingBit" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BreakingTheRecord" />
-        <item itemvalue="Application.TimeConversion" />
+        <item itemvalue="Application.FlippingBit" />
+        <item itemvalue="JUnit.FlippingBit.test" />
+        <item itemvalue="Application.GradingStudent" />
+        <item itemvalue="Application.SparseArrays" />
+        <item itemvalue="Application.DivisibleSumPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -80,8 +144,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693251300629</updated>
-      <workItem from="1693251303354" duration="5271000" />
+      <workItem from="1693251303354" duration="23927000" />
     </task>
+    <task id="LOCAL-00001" summary="practice">
+      <created>1693281085196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693281085196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
 </project>
