@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36631afd-2294-41ef-af78-4360cdf30dfb" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/CamelCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/DivisibleSumPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/SparseArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/sampleTest/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/FlippingBit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/GradingStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/LonelyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/mockTest/Week1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/DiagonalDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/Mini_Max_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/TimeConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/BreakingTheRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/BreakingTheRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/Mini_Max_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/Mini_Max_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeMonthPrepareKit/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week1/TimeConversion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +41,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/LeetCode",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "F:/HackerRank",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FlippingBit">
-    <configuration name="DivisibleSumPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week1.DivisibleSumPairs" />
+  <component name="RunManager" selected="Application.GradingStudent">
+    <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week2.DiagonalDifference" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threeMonthPrepareKit.week1.*" />
+          <option name="PATTERN" value="threeMonthPrepareKit.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradingStudent" />
+        <item itemvalue="Application.DiagonalDifference" />
         <item itemvalue="Application.FlippingBit" />
         <item itemvalue="JUnit.FlippingBit.test" />
-        <item itemvalue="Application.GradingStudent" />
         <item itemvalue="Application.SparseArrays" />
-        <item itemvalue="Application.DivisibleSumPairs" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +136,10 @@
       <option name="presentableId" value="Default" />
       <updated>1693251300629</updated>
       <workItem from="1693251303354" duration="23927000" />
+      <workItem from="1693438607174" duration="881000" />
+      <workItem from="1693444113682" duration="109000" />
+      <workItem from="1693444234282" duration="26000" />
+      <workItem from="1693444270087" duration="1549000" />
     </task>
     <task id="LOCAL-00001" summary="practice">
       <created>1693281085196</created>
