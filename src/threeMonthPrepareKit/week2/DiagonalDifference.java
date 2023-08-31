@@ -43,7 +43,7 @@ public class DiagonalDifference {
         int right = 0;
         for (int i = 0; i < arr.size(); i++) {
             left = left + arr.get(i).get(i);
-            right = right + arr.get(arr.size()-(i+1)).get(arr.size()-(i+1));
+            right = right + arr.get(i).get(arr.size()-(i+1));
         }
         return Math.abs(left-right);
     }

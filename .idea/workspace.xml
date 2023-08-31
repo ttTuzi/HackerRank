@@ -1,34 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="36631afd-2294-41ef-af78-4360cdf30dfb" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/mockTest/Week1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/DiagonalDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="68e3174d-b0b8-424b-97ee-55ba5d194329" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/BreakingTheRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/BreakingTheRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/CamelCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/CamelCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/DivisibleSumPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/DivisibleSumPairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/Mini_Max_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/Mini_Max_Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/SparseArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/SparseArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/TimeConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/TimeConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/sampleTest/FizzBuzz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week1/sampleTest/FizzBuzz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week2/GradingStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week2/GradingStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week2/LonelyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/ThreeMonthPrepareKit/week2/LonelyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/DiagonalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/DiagonalDifference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2UcufwNTsscwQPCuYFbnVMw7TAD" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UjK6gNzOLSF7EEul6qH8LdLJQJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -39,16 +43,21 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "F:/HackerRank",
-    "project.structure.last.edited": "Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GradingStudent">
+  <component name="RunManager" selected="Application.DiagonalDifference">
     <configuration name="DiagonalDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week2.DiagonalDifference" />
       <module name="HackerRank" />
@@ -75,98 +84,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradingStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week2.GradingStudent" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threeMonthPrepareKit.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SparseArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week1.SparseArrays" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threeMonthPrepareKit.week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlippingBit.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threeMonthPrepareKit.week2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="threeMonthPrepareKit.week2" />
-      <option name="MAIN_CLASS_NAME" value="threeMonthPrepareKit.week2.FlippingBit" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GradingStudent" />
         <item itemvalue="Application.DiagonalDifference" />
         <item itemvalue="Application.FlippingBit" />
-        <item itemvalue="JUnit.FlippingBit.test" />
-        <item itemvalue="Application.SparseArrays" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="36631afd-2294-41ef-af78-4360cdf30dfb" name="Changes" comment="" />
-      <created>1693251300629</created>
+      <changelist id="68e3174d-b0b8-424b-97ee-55ba5d194329" name="Changes" comment="" />
+      <created>1693447376395</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1693251300629</updated>
-      <workItem from="1693251303354" duration="23927000" />
-      <workItem from="1693438607174" duration="881000" />
-      <workItem from="1693444113682" duration="109000" />
-      <workItem from="1693444234282" duration="26000" />
-      <workItem from="1693444270087" duration="1549000" />
+      <updated>1693447376395</updated>
+      <workItem from="1693447377369" duration="176000" />
+      <workItem from="1693447553884" duration="46000" />
+      <workItem from="1693447620189" duration="388000" />
     </task>
-    <task id="LOCAL-00001" summary="practice">
-      <created>1693281085196</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1693281085196</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/threeMonthPrepareKit/week2/DiagonalDifference.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
