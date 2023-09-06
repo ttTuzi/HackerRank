@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36631afd-2294-41ef-af78-4360cdf30dfb" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/CountingValley.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/MarsExploration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week2/Pangrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week3/MigratoryBirds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week3/PermutingTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week3/SaleByMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeMonthPrepareKit/week3/SubarrayDivision2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,8 +144,16 @@
       <workItem from="1693447377369" duration="176000" />
       <workItem from="1693447553884" duration="46000" />
       <workItem from="1693447620189" duration="388000" />
-      <workItem from="1693583356042" duration="7155000" />
+      <workItem from="1693583356042" duration="15337000" />
     </task>
+    <task id="LOCAL-00001" summary="practice">
+      <created>1693937108809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693937108809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +169,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
