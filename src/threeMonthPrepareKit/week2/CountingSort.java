@@ -17,7 +17,7 @@ import static java.util.stream.Collectors.toList;
  */
 public class CountingSort {
     public static void main(String[] args) throws Exception {
-        FileInputStream fis = new FileInputStream("E:\\HackerRank\\src\\threeMonthPrepareKit\\CountSortTestCase.txt");
+        FileInputStream fis = new FileInputStream("src\\threeMonthPrepareKit\\CountSortTestCase.txt");
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(fis));
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
